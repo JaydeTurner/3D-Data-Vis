@@ -5,3 +5,6 @@ this was created in the software called "Processing" which is a development envi
 
 Processing can be downloaded here:
 https://processing.org/
+
+
+If running the pre built executable found in the zip file Open JDK 17 is a prerequisite to installation.
